@@ -1,4 +1,4 @@
-package dad.CalculadoraFXML;
+package dad.javafx.CalculadoraFXML;
 
 public class Main {
 

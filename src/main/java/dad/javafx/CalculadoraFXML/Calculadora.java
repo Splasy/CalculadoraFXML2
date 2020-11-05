@@ -1,4 +1,4 @@
-package dad.CalculadoraFXML;
+package dad.javafx.CalculadoraFXML;
 
 /**
  * Implementaci�n de la l�gica de una calculadora.

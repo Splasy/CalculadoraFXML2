@@ -1,4 +1,4 @@
-package dad.CalculadoraFXML;
+package dad.javafx.CalculadoraFXML;
 
 import java.io.IOException;
 import java.net.URL;

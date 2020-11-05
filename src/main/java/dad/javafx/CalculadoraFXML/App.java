@@ -1,4 +1,4 @@
-package dad.CalculadoraFXML;
+package dad.javafx.CalculadoraFXML;
 
 
 import javafx.application.Application;
